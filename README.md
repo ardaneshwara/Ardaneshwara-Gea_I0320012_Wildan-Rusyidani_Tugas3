@@ -1,4 +1,4 @@
-# Ardaneshwara-Gea_I0320012_Wildan-Rusyidani_Tugas3
+# Ardaneshwara-Gea_I0320012_Wildan_Tugas3
 
 Repository ini berisi :
 
